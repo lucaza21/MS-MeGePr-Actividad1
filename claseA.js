@@ -1,4 +1,5 @@
 # se crea la clase A
+# merge main con develop v2"
 
 class ClaseA {
         constructor(foo,bar){
@@ -7,7 +8,7 @@ class ClaseA {
                 }
         displayInfo( {
 
-                console.log(`esto es ${this.foo} y eso es ${bar}`);
+                console.log(`esto es ${this.foo} y eso es ${bar} v2`);
                 }
         }
 
